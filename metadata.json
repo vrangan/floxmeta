@@ -4,10 +4,11 @@
     "3": {
       "path": "/nix/store/mfzs3aa3cp0109cdfal8kxn2p8yzxwzq-profile",
       "logMessage": [
-        "Generation 3->3: venkat upgraded "
+        "Generation 3->3: venkat upgraded ",
+        "Generation 2->3: venkat switched to generation 3"
       ],
       "created": 1665164454,
-      "lastActive": 1665165159
+      "lastActive": 1665165192
     },
     "2": {
       "path": "/nix/store/0zdsafjgba7przfxl43vwq8pb9r9xkyb-profile",
@@ -15,8 +16,8 @@
         "Generation 3->2: venkat switched to generation UNKNOWN"
       ],
       "created": 1665164347,
-      "lastActive": 1665165159
+      "lastActive": 1665165192
     }
   },
-  "currentGen": "2"
+  "currentGen": "3"
 }
