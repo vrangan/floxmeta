@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "generations": {
+    "3": {
+      "path": "/nix/store/mfzs3aa3cp0109cdfal8kxn2p8yzxwzq-profile",
+      "logMessage": [
+        "Generation 3->3: venkat upgraded "
+      ],
+      "created": 1665164454,
+      "lastActive": 1665164495
+    }
+  },
+  "currentGen": "3"
+}
